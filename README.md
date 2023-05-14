@@ -3,8 +3,7 @@
 <p><em>Joniour Software Enginner at <a href="">King Fahd University of Petroleum and Minerals</a><img 
 </em></p>
 
-[![Linkedin: Majed Biazid]([https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/majed-biazid-174b1b260/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Majed1945](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/majed-biazid-174b1b260/))
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
