@@ -1,4 +1,4 @@
-<h2> Hi, I'm Majed Biazid 👋 </h2>  
+<h2> Hi, I'm Majed Biazid </h2>  
 
 [![Linkedin: Majed Biazid](https://img.shields.io/badge/-MajedBiazid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/majed-biazid-174b1b260/)](https://www.linkedin.com/in/majed-biazid-174b1b260/)
 
