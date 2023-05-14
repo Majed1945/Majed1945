@@ -1,4 +1,4 @@
-<h2> Hi, I'm Majed Biazid  <div class="tenor-gif-embed" data-postid="17554626" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626">Waving Hand Joypixels Sticker</a>from <a href="https://tenor.com/search/waving+hand-stickers">Waving Hand Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></h2> 
+<h2> Hi, I'm Majed Biazid </h2> 
 
 [![Linkedin: Majed Biazid](https://img.shields.io/badge/-MajedBiazid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/majed-biazid-174b1b260/)](https://www.linkedin.com/in/majed-biazid-174b1b260/)
 
