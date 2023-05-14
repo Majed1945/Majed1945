@@ -18,6 +18,7 @@ const Majed Biazid = {
   availableForHire: true
 }
 ```
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Majed1945" alt="Majed1945" /></a></p>
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
