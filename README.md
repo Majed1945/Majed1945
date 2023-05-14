@@ -18,7 +18,7 @@ const Majed Biazid = {
   availableForHire: true
 }
 ```
-[![Majed1945's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majed1945&show_icons=true&theme=white)](https://github.com/Majed1945)
+[![Majed1945's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majed1945&show_icons=true&theme=gray)](https://github.com/Majed1945)
 
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
