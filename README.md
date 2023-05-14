@@ -1,4 +1,4 @@
-<h2> Hi, I'm Majed Biazid 👋 </h2> 
+<h2> Hi, I'm Majed Biazid  </h2> 
 
 [![Linkedin: Majed Biazid](https://img.shields.io/badge/-MajedBiazid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/majed-biazid-174b1b260/)](https://www.linkedin.com/in/majed-biazid-174b1b260/)
 
@@ -6,7 +6,7 @@
 <p><em>Joniour Software Enginner at <a href="">King Fahd University of Petroleum and Minerals</a><img 
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://tenor.com/blOVi.gif" width="50"> A little more about me...  
 
 ```javascript
 const Majed Biazid = {
