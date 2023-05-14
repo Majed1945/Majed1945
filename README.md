@@ -1,6 +1,6 @@
 <h2> Hi, I'm Majed Biazid <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Joniour Software Enginner at <a href="">King Fahd University of Petroleum and Minerals</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Joniour Software Enginner at <a href="">King Fahd University of Petroleum and Minerals</a><img 
 </em></p>
 
 [![Linkedin: Majed Biazid]([https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/majed-biazid-174b1b260/)](https://www.linkedin.com/in/thaianebraga/)
