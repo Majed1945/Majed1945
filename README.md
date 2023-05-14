@@ -6,7 +6,7 @@
 <p><em>Joniour Software Enginner at <a href="">King Fahd University of Petroleum and Minerals</a><img 
 </em></p>
 
-### <img src="https://tenor.com/blOVi.gif" width="50"> A little more about me...  
+###A little more about me...  
 
 ```javascript
 const Majed Biazid = {
