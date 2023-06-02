@@ -15,7 +15,7 @@ const Majed Biazid = {
   otherAlias: "Full Stack Developer",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Jest, Tailwind, MongoDB, Firebase],
-  availableForHire: true
+  workingAt: Autobia
 }
 ```
 [![Majed1945's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majed1945&show_icons=true&theme=radical)](https://github.com/Majed1945)
