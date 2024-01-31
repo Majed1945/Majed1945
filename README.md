@@ -19,7 +19,7 @@ const Majed Biazid = {
   workingAt: Autobia
 }
 ```
-[![Majed1945's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majed1945&show_icons=true&theme=radical)](https://github.com/Majed1945)
+[![Majed Biazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majed1945&show_icons=true&theme=algolia)](https://github.com/Majed1945)
 
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
