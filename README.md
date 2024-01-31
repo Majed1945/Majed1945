@@ -6,7 +6,6 @@
 <p><em>Senior Software Engineer at <a href="">King Fahd University of Petroleum and Minerals</a><img 
 </em></p>
 <p>Currently working as a front-end engineer at Autobia</p>
-<p>My work GitHub account at Autobia is MajedBiazid, please check it out if you want to see actual work and commits!</p>
 
 ### A little more about me...  
 
@@ -14,9 +13,9 @@
 const Majed Biazid = {
   pronouns: "He" | "Him",
   education: "UnderGraduate Software Student",
-  otherAlias: "Full Stack Developer",
+  otherAlias: "Front-End Engineer",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Jest, Tailwind, MongoDB, Firebase],
+  tools: [React, Redux, Node, Jest, Tailwind, MongoDB, Firebase, MUI4, MUI5, React Native],
   workingAt: Autobia
 }
 ```
