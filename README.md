@@ -41,7 +41,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg?sanitize=true&cache_seconds=86400" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majed1945)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats-delta-opal-66.vercel.app/api/top-langs?username=majed1945&show_icons=true&locale=en&layout=compact" alt="majed1945" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.appp/api?username=majed1945&show_icons=true&locale=en&cache_seconds=86400" alt="majed1945" /></p>
 
