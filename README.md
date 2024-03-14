@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Majed Biazid</h1>
 <h3 align="center">A highly motivated senior software engineering student at KFUPM | Front-End engineer at Autobia.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majed1945&cache_seconds=86400" alt="majed1945" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Majed1945&cache_seconds=86400" alt="Majed1945" /></a> </p>
 
 - 🔭 I’m currently working on Autobia
 
@@ -41,8 +41,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg?sanitize=true&cache_seconds=86400" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats-delta-opal-66.vercel.app/api/top-langs?username=majed1945&show_icons=true&locale=en&layout=compact" alt="majed1945" /></p>
+<p><img align="left" src="https://github-readme-stats-delta-opal-66.vercel.app/api/top-langs?username=Majed1945&show_icons=true&locale=en&layout=compact" alt="Majed1945" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-delta-opal-66.vercel.app/api?username=majed1945&show_icons=true&locale=en&cache_seconds=86400" alt="majed1945" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-delta-opal-66.vercel.app/api?username=Majed1945&show_icons=true&locale=en&cache_seconds=86400" alt="Majed1945" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majed1945&cache_seconds=86400" alt="majed1945" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Majed1945&cache_seconds=86400" alt="Majed1945" /></p>
