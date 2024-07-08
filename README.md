@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Majed Biazid</h1>
-<h3 align="center">A highly motivated senior software engineering student at KFUPM | Front-End engineer at Autobia.</h3>
+<h3 align="center">A highly motivated fresh software engineering graduate from KFUPM | Front-End engineer at Autobia.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Majed1945&cache_seconds=86400" alt="Majed1945" /></a> </p>
 
