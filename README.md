@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on Autobia
 
-- 🌱 I’m currently learning **React Native, Shadcn**
+- 🌱 I’m currently learning **AI!**
 
-- 💬 Ask me about **React, Redux, MUI, TailwindCSS, Firebase, Algolia Search...**
+- 💬 Ask me about **React, React Native, Redux, MUI, UI/UX, TailwindCSS, Firebase, Algolia Search...**
 
 - 📫 How to reach me **majedbiazid@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/majed-biazid-174b1b260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg?sanitize=true" alt="Majed Biazid Linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/majed-biazid-capm®-174b1b260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg?sanitize=true" alt="Majed Biazid Linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
