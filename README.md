@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on Autobia
 
-- 🌱 I’m currently learning **AI!**
+- 🌱 I’m currently expanding my **Technical and Managerial knowledge!**
 
-- 💬 Ask me about **React, React Native, Redux, MUI, UI/UX, TailwindCSS, Firebase, Algolia Search...**
+- 💬 Ask me about **Front-End Engineering—crafting seamless user experiences, building scalable apps and websites, optimizing performance, and integrating advanced solutions across platforms**
 
 - 📫 How to reach me **majedbiazid@gmail.com**
 
