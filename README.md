@@ -43,6 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats-delta-opal-66.vercel.app/api/top-langs?username=Majed1945&show_icons=true&locale=en&layout=compact" alt="Majed1945" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-delta-opal-66.vercel.app/api?username=Majed1945&show_icons=true&locale=en&cache_seconds=86400" alt="Majed1945" /></p>
+<p>&nbsp;<img align="center" src="hhttps://github-readme-stats.vercel.app/api?username=Majed1945" alt="Majed1945" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Majed1945&cache_seconds=86400" alt="Majed1945" /></p>
