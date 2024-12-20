@@ -43,6 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats-delta-opal-66.vercel.app/api/top-langs?username=Majed1945&show_icons=true&locale=en&layout=compact" alt="Majed1945" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majed1945)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-theta-wine.vercel.app/api?username=Majed1945)]
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Majed1945&cache_seconds=86400" alt="Majed1945" /></p>
